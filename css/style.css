@@ -1,0 +1,21 @@
+
+
+.container-fluid
+{
+	background-color:#ff6000;
+	border:1px solid black;
+
+}
+.inscription
+{
+	margin:auto;
+	border:1ps solid gray;
+	
+}
+
+.footer1
+{
+	margin-top:500px;
+	border:1px solid gray;
+	background-color:silver;
+}
